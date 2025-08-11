@@ -20,7 +20,7 @@ Los usuarios deberían poder:
 ![](./images/Screenshot%202025-08-11%20at%2001-39-28%20Frontend%20Mentor%20Product%20preview%20card%20component.png)
 
 ### Enlaces
-- URL del sitio en vivo: [Blog tarjeta de previsualización](https://eliamrr.github.io/QRcodeComponent-FrontendMentor/)
+- URL del sitio en vivo: [Blog tarjeta de previsualización](https://github.com/eliamrr/ProductPreviewCardComponent-FrontendMentor)
 
 ## Mi proceso
 ### Construido con
